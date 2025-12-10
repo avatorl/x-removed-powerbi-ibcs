@@ -1,3 +1,3 @@
 # IBCS visualizations created using DAX UDFs
 
-See https://github.com/avatorl/dax-udf-svg-ibcs/tree/main/docs/pbix
+ The PBIX files have been moved to: https://github.com/avatorl/dax-udf-svg-ibcs/tree/main/docs/pbix
