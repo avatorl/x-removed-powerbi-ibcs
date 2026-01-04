@@ -1,11 +1,7 @@
-# IBCS-styled data visualizations for Power BI
+# IBCS-guided Data Visualizations for Power BI
 
-![image](https://github.com/user-attachments/assets/ed66d986-6acb-4a3f-840f-bbff9373d7bc)
+This repository is no longer needed; all files have been removed. With the introduction of user-defined DAX functions and the DAX Lib platform for sharing open-source UDFs, the IBCS-guided visualization code—previously implemented using calculation groups and measures—has been rebuilt and published as a DAX Lib package of user-defined functions.
 
-Created using only core Power BI visuals (Matrix, Table, New Card).
+Learn more: https://powerofbi.org/ibcs
 
-YouTube: [IBCS-Styled Charts in Power BI](https://www.youtube.com/playlist?list=PL6qbun6zBOG2OxTNweOq7YPhD503jPTYk)
-
-Visualization design is based on [IBCS guidlines](https://www.ibcs.com/ibcs-standards-1-2/)
-
-Not produced, not certified, not authorized, not endorsed by [IBCS®](https://www.ibcs.com/)
+Download the package: https://daxlib.org/package/PowerofBI.IBCS/
