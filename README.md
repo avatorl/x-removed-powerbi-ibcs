@@ -1,4 +1,4 @@
-# IBCS-guided Data Visualizations for Power BI
+# IBCS-guided data visualizations in your Power BI reports
 
 This repository is no longer needed; all files have been removed. With the introduction of user-defined DAX functions and the DAX Lib platform for sharing open-source UDFs, the IBCS-guided visualization code—previously implemented using calculation groups and measures—has been rebuilt and published as a DAX Lib package of user-defined functions.
 
